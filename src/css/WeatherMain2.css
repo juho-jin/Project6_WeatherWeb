@@ -1,0 +1,29 @@
+.wHinfo {
+    height: 10vh;
+    width: 100%;
+    background-color: rgb(255, 92, 241);
+    color: #cde5ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    position: sticky;
+}
+
+.wUinfo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.wLinfo {
+    display: flex;
+    flex-direction: column;
+}
+
+.wHinfo1, .wHinfo2 {
+    display: flex;
+    flex-direction:row ;
+    padding: 5px;
+    font-size: 1.2rem;
+}
